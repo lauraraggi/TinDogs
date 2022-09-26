@@ -150,6 +150,8 @@ body {
   position: absolute;
   bottom: 1rem;
   left: 1.75rem;
+  text-align: left;
+  width: 80%;
 }
 
 .title {
@@ -160,8 +162,6 @@ body {
 .description {
   font-size: 1.5rem;
   font-weight: 400;
-  text-align: left;
-  width: 80%;
 }
 
 .footer {
